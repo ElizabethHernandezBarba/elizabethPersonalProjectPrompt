@@ -1,11 +1,12 @@
 body{
-    background-color: rgb(248, 195, 204);
+    background-image: url("https://149398021.v2.pressablecdn.com/wp-content/uploads/2019/12/clouds11.jpg");
+    background-size: 100% 100%;
     font-family: 'Stylish', sans-serif;
      text-align: center;
 }
 
 .button .btn {
-    background-color: rgb(149, 215, 241); 
+    background-color: rgb(205, 135, 207); 
     border:2px rgb(68, 66, 66) solid;
     font-family: 'Stylish', sans-serif;
     color: black;
@@ -17,3 +18,25 @@ form {
   padding: 30px;
   margin: 30px;
 }
+
+
+
+
+
+#table {
+    background: rgb(235, 168, 179);
+    margin: 100px;
+    padding: 50px;
+    table-layout:inside;
+    border: solid rgba(156, 149, 149, 0.746);
+    
+}
+
+.list{
+  background: rgb(243, 181, 192);
+  padding: 50px;
+  margin: 100px;
+  list-style-position:inside;
+  border: solid rgba(156, 149, 149, 0.746);
+}
+ 
